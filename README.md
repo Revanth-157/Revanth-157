@@ -30,9 +30,9 @@
 
 📊 **CGPA:** **9.44**
 
-💻 Passionate about **Software Engineering**
+💻 Passionate about **Problem Solving**
 
-🤖 Interested in **Artificial Intelligence, LLMs & Agentic AI**
+🤖 Interested in **Artificial Intelligence,Software Enginerring, LLMs & Agentic AI**
 
 🎮 Dreaming of building my own RPG games
 
