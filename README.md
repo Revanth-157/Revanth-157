@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Revanth-157/Revanth-157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Revanth%20Parna&section=header&textBg=false&fontColor=00FF98&fontSize=70&animation=fadeIn&strokeWidth=0.6)
 
 Here are some ideas to get you started:
 
