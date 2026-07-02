@@ -18,4 +18,4 @@ I'm Revanth
 
 🌱 Learning Backend Systems
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,fastapi,flask,docker,git,github,linux,postgres,mysql,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,godot,flask,docker,git,github,G,postgres,mysql)](https://skillicons.dev)
