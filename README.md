@@ -17,16 +17,14 @@ I'm Revanth
 📈 360+ LeetCode Problems
 
 🌱 Learning Backend Systems
+
+
 My skills
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,flask,docker,git,github,G,postgres,mysql)](https://skillicons.dev)
-Github Stats:-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revanth-157&show_icons=true&theme=tokyonight)
-Mostly used Languages:-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth-157&layout=compact&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,flask,docker,git,github,G,postgres,mysql)]
+(https://skillicons.dev)
 Github Activity:-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Revanth-157&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-Trophies:-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Revanth-157&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 Visitor Counter:- 
 ![](https://komarev.com/ghpvc/?username=Revanth-157)
 
