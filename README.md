@@ -93,11 +93,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 LeetCode Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Revanth-157&theme=tokyonight&row=1&column=7"/>
+<img src="https://leetcode.com/medal/?showImg=0&id=10439679&isLevel=false" height="120"/><img src="https://leetcode.com/medal/?showImg=0&id=8227998&isLevel=false" height="120"/><img src="https://leetcode.com/medal/?showImg=0&id=8227998&isLevel=false" height="120"/><img src="https://leetcode.com/medal/?showImg=0&id=9787155&isLevel=false" height="120"/>
 
 </p>
 
