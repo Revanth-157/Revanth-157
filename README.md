@@ -19,11 +19,15 @@ I'm Revanth
 🌱 Learning Backend Systems
 
 
-My skills
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,flask,docker,git,github,godot,postgres,mysql)]
+My skills:-
+
+![My Skills](https://skillicons.dev/icons?i=python,cpp,java,tensorflow,pytorch,flask,docker,git,github,godot,postgres,mysql)
+
 Github Activity:-
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Revanth-157&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Visitor Counter:- 
+
 ![](https://komarev.com/ghpvc/?username=Revanth-157)
 
