@@ -112,7 +112,6 @@
 | 🏆 50 Days Badge (2026) | ✅ |
 | 🏆 SQL 50 Badge | ✅ |
 
-> *(I'll replace these with your actual badge images once you upload the PNGs to GitHub.)*
 
 ---
 
@@ -122,7 +121,6 @@
 - 🎮 Publish an Indie RPG Game
 - 🤖 Build Production-Ready AI Applications
 - ☁ Master Cloud & Distributed Systems
-- 💼 Crack a 15+ LPA Software Engineering Role
 
 ---
 
