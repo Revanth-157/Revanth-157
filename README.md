@@ -63,7 +63,6 @@
 |---------|-------------|-------|
 | 🤖 AI Powered Business Assistant | AI-powered FMCG analytics platform capable of answering business questions using natural language | Python, LLMs |
 | 🚗 LLM Car Lease Negotiation Assistant | Reviews and negotiates car lease contracts using Large Language Models | LangChain, Python |
-| 🎮 Thrust Arena | Physics based 2D multiplayer game | C++, Godot |
 | 💰 Financial Research AI Assistant | AI platform for financial analysis and research *(In Progress)* | Python, AI |
 | 😷 Face Mask Detection | Real-time mask detection with live alerts | TensorFlow, Flask |
 | 🎭 Speech Emotion Recognition | Emotion classification from speech using Deep Learning | TensorFlow |
