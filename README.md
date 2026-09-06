@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Revanth%20Parna&fontSize=55&fontColor=00FFD5&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Aspiring Game%20Developer&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Revanth%20Parna&fontSize=55&fontColor=00FFD5&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7CAspiring%20Game%20Developer&descAlignY=60)
 
 <p align="center">
 
