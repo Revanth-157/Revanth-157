@@ -95,9 +95,10 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revanth-157&theme=tokyo-night&hide_border=true&area=true" alt="Revanth's GitHub Activity Graph"/>
+<img src="https://ghchart.rshah.org/Revanth-157" alt="Revanth's GitHub Contribution Graph"/>
 
 </p>
+
 ---
 
 # 🏅 Coding Achievements
